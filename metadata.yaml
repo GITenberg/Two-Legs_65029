@@ -1,5 +1,8 @@
 _repo: Two-Legs_65029
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65029-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Carl_Ewald
     - https://da.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65029#Two-Legs
 gutenberg_issued: '2021-04-08'
 gutenberg_type: Text
 identifiers:
